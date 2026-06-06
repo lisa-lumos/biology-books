@@ -1,3 +1,5 @@
+Notes for the book Neuroscience, 6th Edition, by Dale Purves, George J. Augustine, etc
+
 # Ch1. Studying the Nervous System
 ## Overview
 ## Genetics and Genomics
