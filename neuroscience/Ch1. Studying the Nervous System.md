@@ -23,6 +23,28 @@ Neurons and glia differ in the distribution of their organelles and sub cellular
 Understanding the ways in which these molecular components are used to ensure the proper development/function of neurons/glia remains a primary focus of modern neurobiology. 
 
 ## Neurons
+The extensive branching of neurons is an obvious morphological sign of neuronal specialization for communication. Typical nerve cells has an axon that extends for a long distance, and elaborate arborization of dendrites (dendritic branches) which has a high ribosome contents and specific cytoskeletal proteins. 
+
+The variation in size/branching of dendrites is enormous. Some neurons do not have dendrites, while others have dendritic branches that rival the complexity of a mature tree. 
+
+The number of inputs to a single neuron reflects the degree of "convergence", while the number of targets represents of "divergence". The number of inputs received by a nerve cell in human nervous system varies from 1 to ~100k. 
+
+For the majority of synapses, the axon terminal of the presynaptic neuron is immediately adjacent to postsynaptic receptors on the target cell, with no physical continuity between the two cells, but a synaptic cleft. They communicate via the secretion of molecules (neurotransmitters), from the presynaptic terminal, that bind to receptors in the postsynaptic cell. 
+
+The synaptic cleft is a site of extracellular proteins that influence the diffusion/binding/degradation of the molecules. 
+
+The axon has a distinct cytoskeleton, whose elements are central for its functions. 
+
+Many nerve cells in the human brain have axons of no more than a few mm long. 
+
+Relatively short axons are a feature of local circuit neurons (interneurons). In contrast, the axons of projection neurons extend to distant targets, like the axons that run from the human spinal cord to the foot ar about 1m long. 
+
+Axons convey electrical signals over distances by "action potential", a self-regenerating wave of electrical activity. They are all-or-nothing changes in the electrical potential/voltage across the nerve cell membrane, that conveys information.
+
+The most abundant type of synapse are the chemical synapses. There are also rare electrical synapses, which are mediated by the gap junctions. 
+
+In the precynaptic terminal of chemical synapses, there are secretory organelles filled with neurotransmitters, or other neuroactive molecules. Their positioning and release are regulated by a variety of proteins, either in or associated with the vesicle. 
+
 ## Glial Cells
 ## Cellular Diversity in the Nervous System
 ## Neural Circuits
