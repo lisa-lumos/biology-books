@@ -45,10 +45,48 @@ The most abundant type of synapse are the chemical synapses. There are also rare
 
 In the precynaptic terminal of chemical synapses, there are secretory organelles filled with neurotransmitters, or other neuroactive molecules. Their positioning and release are regulated by a variety of proteins, either in or associated with the vesicle. 
 
-## Glial Cells
+## Glial Cells (came from "glue" in Greek)
+Glial cells appear to be the only stem cells retained in the mature brain, and are capable of giving rise both to new glia and sometimes new neurons. 
+
+Well established glial functions:
+- maintaining the ionic milieu (env) of nerve cells
+- modulating (influence) the nerve signal propagation rate
+- modulating synaptic action, by controlling the uptake/metabolism of neurotransmitters at/near the synaptic cleft
+- providing a scaffold (platform) for some neural development
+- aiding/impeding recovery from neural injury
+- providing an interface between the brain and the immune system
+- facilitating the convective flow of interstitial (in-between space) fluid through the brain during sleep, a process that washes out metabolic waste
+
+3 types of different glial cells in the mature nervous system:
+1. **Astrocytes**. Restricted to the central nervous system (brian and spinal cord). Major function: maintain appropriate chemical env for neuronal signaling, including forming the blood-brain barrier. Secrete substances that influence the construction of new synaptic connections. A subset of astrocytes in the adult brain retains the characteristics of stem cells. 
+2. **Oligodendrocytes**. Restricted to the central nervous system. Lay down a laminated lipid-rich wrapping called myelin around some axons. Affect the speed of the electrical signals transmission. The cells that provide myelin are called Schwann cells. In the mature nervous system, subsets of Oligodendrocytes and Schwann cells retain neural stem cell properties. 
+3. **Microglial cells**. Scavenger cells that remove cellular debris from sites of injury, or normal cell turnover. Derived primarily from hematopoietic (blood-making) precursor cells. Share many properties with macrophages (big eaters). Secrete signaling molecules, that can modulate local inflammation, and influence whether other cells survive or die. 
+
+Besides, glial stem cells are found throughout the adult brain. Has two categories:
+1. A subset of astrocytes, primarily near the subventricular zone (SVZ)
+2. Oligodendrocyte precursors (also called polydendrocytes), scattered throughout the white matter. 
+
+The significance of stem cells that retain many molecular characteristics of glia in the mature brain remains unclear. 
+
 ## Cellular Diversity in the Nervous System
+The human brains has ~86 bil neurons, and at least that many glia. 
+
+For much of the 1900s, neuroscientists relied on the techniques developed by Cajal/Golgi/etc to describe/categorize the nervous cells, such as the staining methods by Golgi. More recently, injecting fluorescent dyes etc into single neurons have provided more info. 
+
 ## Neural Circuits
+Neurons are organized into ensembles called neural circuits that process specific kind of information. 
+
+Afferent neurons: nerve cells that carry info from the periphery toward the brain/spinal cord.
+
+Efferent neurons: nerve cells that carry info away from the brain/spinal cord.
+
+Myotatic reflex (the knee-jerk reflex). The spinal cord interneurons receive info from sensory afferent neurons, and make synapses on teh efferent motor neurons that project to the flexor muscles, thus they can modulate the input-output linkage. 
+
+A detailed picture of the events underlying the neural circuits can be obtained by electrophysiological recording, which measures the electrical activity of a nerve cell. The electrodes can be placed inside of, or near the cell of interest. 
+
 ## Other Ways to Study Neural Circuits
+Calcium imaging. Allows the activity of entire populations of neurons to be monitored. Records the intracellular concentration of calcium ions, that are associated with potential firing. 
+
 ## Organization of the Human Nervous System
 ## Neural Systems
 ## Genetic Analysis of Neural Systems
