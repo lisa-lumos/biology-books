@@ -1,7 +1,7 @@
 # Ch1. Studying the Nervous System
 ## Overview
 ## Genetics and Genomics
-Based on current estimates, the human genome comprises about 20k genes, of which ~14k (~70%) are expressed in the developing/mature nervous system. Of this 70%, some are expressed in all cells, some are only expressed in the nervous system. 
+Number of genes. Based on current estimates, the human genome comprises about 20k genes, of which ~14k (~70%) are expressed in the developing/mature nervous system. Of this 70%, some are expressed in all cells, some are only expressed in the nervous system. 
 
 Splice variants. Variable messages transcribed from the same gene, add diversity by allowing a single gene to encode info for different related protein products. 
 
@@ -31,7 +31,7 @@ The number of inputs to a single neuron reflects the degree of "convergence", wh
 
 For the majority of synapses, the axon terminal of the presynaptic neuron is immediately adjacent to postsynaptic receptors on the target cell, with no physical continuity between the two cells, but a synaptic cleft. They communicate via the secretion of molecules (neurotransmitters), from the presynaptic terminal, that bind to receptors in the postsynaptic cell. 
 
-The synaptic cleft is a site of extracellular proteins that influence the diffusion/binding/degradation of the molecules. 
+Synaptic cleft. A site of extracellular proteins that influence the diffusion/binding/degradation of the molecules. 
 
 The axon has a distinct cytoskeleton, whose elements are central for its functions. 
 
@@ -39,7 +39,7 @@ Many nerve cells in the human brain have axons of no more than a few mm long.
 
 Relatively short axons are a feature of local circuit neurons (interneurons). In contrast, the axons of projection neurons extend to distant targets, like the axons that run from the human spinal cord to the foot ar about 1m long. 
 
-Axons convey electrical signals over distances by "action potential", a self-regenerating wave of electrical activity. They are all-or-nothing changes in the electrical potential/voltage across the nerve cell membrane, that conveys information.
+Action potential. Axons convey electrical signals over distances by it, a self-regenerating wave of electrical activity. They are all-or-nothing changes in the electrical potential/voltage across the nerve cell membrane, that conveys information.
 
 The most abundant type of synapse are the chemical synapses. There are also rare electrical synapses, which are mediated by the gap junctions. 
 
@@ -74,20 +74,39 @@ The human brains has ~86 bil neurons, and at least that many glia.
 For much of the 1900s, neuroscientists relied on the techniques developed by Cajal/Golgi/etc to describe/categorize the nervous cells, such as the staining methods by Golgi. More recently, injecting fluorescent dyes etc into single neurons have provided more info. 
 
 ## Neural Circuits
-Neurons are organized into ensembles called neural circuits that process specific kind of information. 
+Neurons are organized into ensembles called neural circuits, that process specific kind of information. 
 
 Afferent neurons: nerve cells that carry info from the periphery toward the brain/spinal cord.
 
 Efferent neurons: nerve cells that carry info away from the brain/spinal cord.
 
+Interneurons: local circuit neurons. 
+
 Myotatic reflex (the knee-jerk reflex). The spinal cord interneurons receive info from sensory afferent neurons, and make synapses on teh efferent motor neurons that project to the flexor muscles, thus they can modulate the input-output linkage. 
 
-A detailed picture of the events underlying the neural circuits can be obtained by electrophysiological recording, which measures the electrical activity of a nerve cell. The electrodes can be placed inside of, or near the cell of interest. 
+Electrophysiological recording. Can obtain a detailed picture of the events underlying the neural circuits; measures the electrical activity of a nerve cell. The electrodes can be placed inside of, or near the cell of interest. 
 
 ## Other Ways to Study Neural Circuits
 Calcium imaging. Allows the activity of entire populations of neurons to be monitored. Records the intracellular concentration of calcium ions, that are associated with potential firing. 
 
+Optogenetics. Molecular genetic tool to manipulate the function of neural circuits. Can modify neuronal activity at different levels, single neurons, or local neural circuits, or more widely distributed neural networks. Bacterial opsins use the same chromophore found in retinal opsins, to transduce light energy into a chemical signal that activates channel proteins. Since opsins modulate membrane currents when they absorb photons, light can be used to control nerve cell activity when bacterial chromophores are incorporated into the membrane of any neuron. Depends on the opsin, depolarizing/hyperpolarizing modulation can happen. 
+
 ## Organization of the Human Nervous System
+- Sensory systems. Acquire/process info from the internal/external environments. 
+- Motor systems. Generates movements. 
+- Associational systems. Anything else. 
+
+Central nervous system (CNS). Brain (cerebral hemispheres, diencephalon, cerebellum, brainstem), and the spinal cord. 
+
+Peripheral nervous system (PNS). Sensory neurons that link sensory receptors with relevant processing circuits in the CNS. Motor portion, including somatic motor division (voluntary movement) and visceral/autonomic motor division (involuntary functions). 
+
+Ganglia. Where PNS nerve cell bodies located. 
+
+Nerves. Peripheral axons gathered into bundles. 
+
+Schwann cells. Peripheral glia. 
+
+
 ## Neural Systems
 ## Genetic Analysis of Neural Systems
 ## Structural Analysis of Neural Systems
