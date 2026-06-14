@@ -119,6 +119,14 @@ Within the white matter of the CNS, axons are gathered into tracts, that are mor
 Columns: the sensory tracts of the dorsal spinal cord. 
 
 ## Neural Systems
+Parallel pathways. Virtually all neural systems have identifiable subsystems. The human visual system has subsystems to emphasize stimulus such as color/form/motion, with each class of information relayed/processed separately, to some degres. 
+
+For neural systems where the representation info doesn't depend on discriminating neighboring points in a field, such as hearing/smell/taste, the info is processed in a orderly way. 
+
+Computational maps. Many of these representations remain only partially understood. 
+
+The organization of even more complex info, such as perception/attention/emotions/memories is also unclear, and presumably involves processing that engages additional networks, beyond the relatively rudimentary level of topographic/computational maps in sensory/motor cortices. 
+
 ## Genetic Analysis of Neural Systems
 ## Structural Analysis of Neural Systems
 ## Functional Analysis of Neural Systems
