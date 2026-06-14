@@ -106,6 +106,17 @@ Nerves. Peripheral axons gathered into bundles.
 
 Schwann cells. Peripheral glia. 
 
+Grey matter. Accumulation of cell bodies and nuropil in the brain the spinal cord. 
+
+White matter. Axon tracts and commissures (tracts that cross the midline of the brain). 
+
+Nucleus. In grey matter, a local accumulation, with neurons that have roughly similar connections/functions. 
+
+Cortex. sheetlike arrays of nerve cells. 
+
+Within the white matter of the CNS, axons are gathered into tracts, that are more or less analogous to nervous in the periphery. Each tract contains axons that typically originate in the same gray matter structure, are organized in parallel, and often terminate in the same division of grey matter, at some distance from their origin. 
+
+Columns: the sensory tracts of the dorsal spinal cord. 
 
 ## Neural Systems
 ## Genetic Analysis of Neural Systems
