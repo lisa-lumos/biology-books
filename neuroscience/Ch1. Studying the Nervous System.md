@@ -128,7 +128,19 @@ Computational maps. Many of these representations remain only partially understo
 The organization of even more complex info, such as perception/attention/emotions/memories is also unclear, and presumably involves processing that engages additional networks, beyond the relatively rudimentary level of topographic/computational maps in sensory/motor cortices. 
 
 ## Genetic Analysis of Neural Systems
+Can be done by:
+1. Examining families in which a disease is inherited in a Mendelian fashion
+2. Genome-wide association studies (GWAS). Statistical correlation of likely disease genes, drown from analyses of large cohorts of individuals with the same diagnoses. If a genetic variant occurs with a greater than random frequency in patients with a diagnosed condition, such as Alzheimer's disease, or autism, etc, it probably contributes to the pathology. It provides a direct connection between the brain's genomic foundations and brain structure/function. 
+
+Mutagenesis. files/worms are randomly mutagenized using chemicals, etc, and mutants with genes orthologous to human genes are identified based on animal phenotypes (set of observable characteristics of an organism). 
+
+Genetic engineering. The mouse genome is altered, so all cells in the mouse will carry the mutation. 
+
+Despite these techniques, identifying genes responsible for diseases has been much harder than expected, and whether mutations in the mouse are valid replicas of a human disease is always uncertain. 
+
 ## Structural Analysis of Neural Systems
+
+
 ## Functional Analysis of Neural Systems
 ## Analyzing Complex Behavior
 ## Imaging the Living Human Brain
