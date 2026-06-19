@@ -141,8 +141,7 @@ Despite these techniques, identifying genes responsible for diseases has been mu
 ## Structural Analysis of Neural Systems
 Lesion studies: Early observers made inferences of functional localization by correlating behavioral deficits (paralysis of a specific extremity, difficulty speaking, etc) to damaged brain structures observed post mortem. Then adapted to experimental animals, by purposefully damaging a brain region/nerve/tract, and observing the subsequent loss of function. 
 
-Tracer proteins. Assessment of the extent of connections, from a single population of nerve cells, to their targets throughout the nervous system. 
-
+Pathway tracing using tracer proteins. Assessment of the extent of connections, from a single population of nerve cells, to their targets throughout the nervous system. Are now routine. 
 
 ## Functional Analysis of Neural Systems
 ## Analyzing Complex Behavior
