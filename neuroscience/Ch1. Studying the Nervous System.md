@@ -144,6 +144,15 @@ Lesion studies: Early observers made inferences of functional localization by co
 Pathway tracing using tracer proteins. Assessment of the extent of connections, from a single population of nerve cells, to their targets throughout the nervous system. Are now routine. 
 
 ## Functional Analysis of Neural Systems
+1. Electrophysiological recording. 
+2. Functional brain imaging. 
+
+Electrophysiological recording. Most widely used: single-cell, or single-unit, recording with microelectrodes. Often record from several nearby cells, in addition to the one selected. Allows cell-by-cell analysis of the org of topographic maps, and get info on the type of stimulus, to which the neuron is tuned (maximal change vs the baseline state), aka, the receptive field of the neuron. 
+
+Receptive field properties. Neurons in the olfactory system have stimulus-selective responses, to different odorant molecules. Neurons in the visual system have diff preferences to color/motion/etc, in addition to locations. 
+
+Functional brain imaging. 
+
 ## Analyzing Complex Behavior
 ## Imaging the Living Human Brain
 ## Early Brain Imaging Using X-Rays
