@@ -154,6 +154,10 @@ Receptive field properties. Neurons in the olfactory system have stimulus-select
 Functional brain imaging. Noninvasive. Allow the simultaneous evaluation of multiple brain structures. 
 
 ## Analyzing Complex Behavior
+Cognitive neuroscience. Such as perception/language/emotions/memory/consciousness. 
+
+Neuroethology. Devoted to observing complex behaviors of animals in their native envs, and has encouraged the development of tasks to better evaluate the origin of complex human behaviors. Brain regions that are active, when engaging in tasks involve language/math/music/aesthetics/abstract-thinking/social-appraisals can be evaluated. 
+
 ## Imaging the Living Human Brain
 ## Early Brain Imaging Using X-Rays
 ## Early Functional Mapping Using Cortical Surface Stimulation and Electroencephalography
