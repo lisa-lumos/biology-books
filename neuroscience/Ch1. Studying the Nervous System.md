@@ -151,7 +151,7 @@ Electrophysiological recording. Most widely used: single-cell, or single-unit, r
 
 Receptive field properties. Neurons in the olfactory system have stimulus-selective responses, to different odorant molecules. Neurons in the visual system have diff preferences to color/motion/etc, in addition to locations. 
 
-Functional brain imaging. 
+Functional brain imaging. Noninvasive. Allow the simultaneous evaluation of multiple brain structures. 
 
 ## Analyzing Complex Behavior
 ## Imaging the Living Human Brain
