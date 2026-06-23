@@ -159,10 +159,28 @@ Cognitive neuroscience. Such as perception/language/emotions/memory/consciousnes
 Neuroethology. Devoted to observing complex behaviors of animals in their native envs, and has encouraged the development of tasks to better evaluate the origin of complex human behaviors. Brain regions that are active, when engaging in tasks involve language/math/music/aesthetics/abstract-thinking/social-appraisals can be evaluated. 
 
 ## Imaging the Living Human Brain
+Opened new avenues for exploring how the brain carries out complex functions mentioned above. 
+
 ## Early Brain Imaging Using X-Rays
+Pneumoencephalography. Commonly used from 1920s to 1970s. An early brain-imaging technique, that replaced some cerebrospinal fluid with air to visualize the brain on X-rays, but it was highly painful and was eventually replaced by newer methods. 
+
+Cerebral angiography (blood vessel visualization). Used to visualize the blood vessels of the brain, by injecting a contrast agent into the arteries and taking X-ray images.
+
 ## Early Functional Mapping Using Cortical Surface Stimulation and Electroencephalography
-## Computerized Tomography
-## Magnetic Resonance Imaging
+Over the late 1800s and early 1900s, neurophysiologists demonstrated functional areas in the intact primate brain, that process specific sensory modalities. 
+
+Electroencephalography (EEG) is a technique that records the electrical activity of the brain using electrodes placed on the scalp. 
+
+Event related potential (ERP) analysis. A low-resolution method used in EEG research to measure brain responses that are time-locked to a specific event, like seeing a word, hearing a sound, or making a decision. 
+
+Transcranial magnetic stimulation (TMS). A non-invasive brain stimulation technique that uses brief magnetic pulses to induce electrical currents in specific brain regions. It lets you test whether a brain region is necessary for a function, not just correlated with it.
+
+## Computerized Tomography (CT)
+Uses a narrow X-ray beam, and a row of detectors placed on opposite sides of the head, to probe a small portion of tissue at a time, with limited radiation exposure. Spatial resolution of a few mm. 
+
+## Magnetic Resonance Imaging (MRI)
+1980s. The human body is mostly water, and water contains hydrogen atoms. MRT takes advantage of the fact that hydrogen nuclei (protons) behave like tiny magnets. mm resolution, far better than CT. Can be used to detect changes in metabolic intermediates, that may be related to ongoing neurotransmission. Similar method can be used to visualize axon pathways. 
+
 ## Functional Brain Imaging
 ## Summary
 ## Additional Reading
