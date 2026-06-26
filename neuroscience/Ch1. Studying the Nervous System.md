@@ -182,5 +182,12 @@ Uses a narrow X-ray beam, and a row of detectors placed on opposite sides of the
 1980s. The human body is mostly water, and water contains hydrogen atoms. MRT takes advantage of the fact that hydrogen nuclei (protons) behave like tiny magnets. mm resolution, far better than CT. Can be used to detect changes in metabolic intermediates, that may be related to ongoing neurotransmission. Similar method can be used to visualize axon pathways. 
 
 ## Functional Brain Imaging
+To conserve energy, the brain regulates its blood flow, such that active neurons with relatively high metabolic demands receive more oxygen and nutrients, than do relatively inactive neurons. Detecting/mapping these local changes in cerebral blood flow forms the basis for functional brain imaging techniques. 
+
+Functional magnetic resonance imaging (fMRI). Has emerged as the favored approach in most cases. It is least invasive, and most cost-effective, with better spatial resolution (2-3mm), lower temporal resolution (seconds). Relies on the fact that hemoglobin (iron-containing protein found in red blood cells) in blood slightly distorts the magnetic resonance properties of hydrogen nuclei in its vicinity, and the amount of magnetic distortion changes based on whether the hemoglobin has oxygen bound to it. 
+
+Magnetoencephalography (MEG). Better temporal resolution (ms). 
+
+
 ## Summary
 ## Additional Reading
