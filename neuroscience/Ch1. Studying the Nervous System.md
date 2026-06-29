@@ -186,8 +186,9 @@ To conserve energy, the brain regulates its blood flow, such that active neurons
 
 Functional magnetic resonance imaging (fMRI). Has emerged as the favored approach in most cases. It is least invasive, and most cost-effective, with better spatial resolution (2-3mm), lower temporal resolution (seconds). Relies on the fact that hemoglobin (iron-containing protein found in red blood cells) in blood slightly distorts the magnetic resonance properties of hydrogen nuclei in its vicinity, and the amount of magnetic distortion changes based on whether the hemoglobin has oxygen bound to it. 
 
-Magnetoencephalography (MEG). Better temporal resolution (ms). 
+Magnetoencephalography (MEG). Better temporal resolution (ms). Records the magnetic consequences of brain electrical activity, rather than the electrical signals themselves. Provide a map of current sources across the brain to create a 3D space. 
 
+It is now possible to obtain images of the developing brain, as it grows and changes, and of the living brain in action. 
 
 ## Summary
 ## Additional Reading
