@@ -191,4 +191,5 @@ Magnetoencephalography (MEG). Better temporal resolution (ms). Records the magne
 It is now possible to obtain images of the developing brain, as it grows and changes, and of the living brain in action. 
 
 ## Summary
+
 ## Additional Reading
