@@ -20,10 +20,20 @@ The amplitude of the action potential is independent of the magnitude of the cur
 If the amplitude/duration of the stimulus current is increased sufficiently, multiple action potentials occur. aka, the intensity of a stimulus is encoded in the freqency of action potentials, rather than in their amplitude. 
 
 ## Long-Distance Transmission of Electrical Signals
+The electrical properties of neurons compare poorly with that of an ordinary wire. 
 
+If the applied current pulse is below the threshold of action potential, its magnitude will decay with increasing distance from the side of current injection. Typically falls significantly in a few mm of distance. 
+
+However, if the applied current pulse is above the threshold, it magnitude will be constant along the entire length of the axon. 
+
+Clinical applications, anesthesia. 
 
 ## Clinical Applications: Anesthesia and Neuronal Electrical Signaling
+Local anesthesia. Block action potential propagation along peripheral nerves, by blocking the Na+ channels. Common during dental procedures. 
 
+Regional anesthesia. Desensitizes a larger region of the body, typically produced by injecting anesthetics near the spinal cord. Commonly used for women giving birth. 
+
+General anesthesia. Causes unconsciousness. Used for major surgical procedures. 
 
 ## How Ion Movements Produce Electrical Signals
 
