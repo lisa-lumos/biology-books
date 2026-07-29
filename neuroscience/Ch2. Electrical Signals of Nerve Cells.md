@@ -36,10 +36,18 @@ Regional anesthesia. Desensitizes a larger region of the body, typically produce
 General anesthesia. Causes unconsciousness. Used for major surgical procedures. 
 
 ## How Ion Movements Produce Electrical Signals
+Active transporters. Proteins that actively move ions in/out of cells, against their concentration  gradients. 
 
+Ion channels. Proteins that allow only certain kinds of ions to cross the membrane, in the direction of their concentration gradients. 
+
+The above two work against each other, and generate the resting membrane potential, action potentials, synaptic potentials, receptor potentials that trigger the action potentials. 
 
 ## Forces That Create Membrane Potentials
+Nernst equation. 
 
+The resting membrane potential happens because the Na+/K+ pump uses ATP to move 3 Na+ out and 2 K+ into the neuron, creating a high K+ concentration inside the cell. Because the membrane has K+ leak channels, K+ diffuses out of the cell. As K+ leaves, it removes positive charge and leaves behind trapped negative molecules such as proteins and phosphates, making the inside of the cell more negative. This negative voltage then pulls K+ back in, eventually balancing the outward diffusion. The result is a stable resting membrane potential of about -70 mV, meaning the inside of the neuron is negative compared with the outside.
+
+Na+ also tends to diffuse into the cell, and this is an important part of why the resting membrane potential is not as negative as the K+ equilibrium potential. However, the resting membrane has very few open Na+ channels compared with K+ leak channels. Therefore, only a small amount of Na+ leaks in.
 
 ## Electrochemical Equilibrium in an Environment with More Than One Permeant Ion
 
