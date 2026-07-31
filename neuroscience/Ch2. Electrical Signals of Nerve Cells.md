@@ -50,7 +50,9 @@ The resting membrane potential happens because the Na+/K+ pump uses ATP to move 
 Na+ also tends to diffuse into the cell, and this is an important part of why the resting membrane potential is not as negative as the K+ equilibrium potential. However, the resting membrane has very few open Na+ channels compared with K+ leak channels. Therefore, only a small amount of Na+ leaks in.
 
 ## Electrochemical Equilibrium in an Environment with More Than One Permeant Ion
+If Na+ and K+ both present, the potential would depend on the relative permeability of both. 
 
+During action potential, the rise in Na+ permeability is transient. As the membrane permeability to K+ is restored, the membrane potential quickly returns to its resting level. 
 
 ## The Ionic Basis of the Resting Membrane Potential
 
