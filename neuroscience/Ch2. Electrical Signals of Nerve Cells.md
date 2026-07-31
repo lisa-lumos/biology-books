@@ -55,7 +55,9 @@ If Na+ and K+ both present, the potential would depend on the relative permeabil
 During action potential, the rise in Na+ permeability is transient. As the membrane permeability to K+ is restored, the membrane potential quickly returns to its resting level. 
 
 ## The Ionic Basis of the Resting Membrane Potential
-
+Resting potential arises because
+1. the membrane of the resting neuron is more permeable to K+ than to any of the other ions present
+2. there is higher K+ concentration inside the neuron than outside. 
 
 ## The Ionic Basis of Action Potentials
 
