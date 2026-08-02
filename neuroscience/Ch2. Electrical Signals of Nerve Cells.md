@@ -60,10 +60,4 @@ Resting potential arises because
 2. there is higher K+ concentration inside the neuron than outside. 
 
 ## The Ionic Basis of Action Potentials
-
-
-## Summary
-
-
-## Additional Reading
-
+Increased permeability to Na+, which is short-lived. 
