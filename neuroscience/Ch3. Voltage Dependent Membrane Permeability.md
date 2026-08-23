@@ -38,6 +38,12 @@ The region that just fired has its Na+ channels in an inactivated state. During 
 ## Reconstruction of the Action Potential
 ## Long-Distance Signaling by Means of Action Potentials
 ## Increased Conduction Velocity as a Result of Myelination
+Conduction velocity. Action potential's measurable rate of propagation. 
+
+Increasing the diameter of axon -> decreases the internal resistance to passive current -> passive current spreads farther/faster along the axon -> higher conduction velocity. 
+
+Adding myelin -> increases membrane resistance -> less passive current leaks out -> more current reaches the next node -> next node reaches threshold faster -> higher conduction velocity.
+
 ## Summary
 ## Clinical Applications: Multiple Sclerosis
 ## Additional Reading
