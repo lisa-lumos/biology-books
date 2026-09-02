@@ -10,6 +10,11 @@ Ion channels. The membrane proteins that give rise to selective ion permeability
 Different combinations of ion channels are found in diff cell types, yielding a wide spectrum of electrical characteristics. 
 
 ## Ion Channels Underlying Action Potentials
+Microscopic currents. The currents flowing through single channels.
+
+Macroscopic currents. The currents flowing through a large number of channels, distributed over a much more extensive region of surface membrane. 
+
+
 ## How Ion Channels Work
 ## The Diversity of Ion Channels
 ## Voltage-Gated Ion Channels
