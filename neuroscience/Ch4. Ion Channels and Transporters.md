@@ -14,8 +14,11 @@ Microscopic currents. The currents flowing through single channels.
 
 Macroscopic currents. The currents flowing through a large number of channels, distributed over a much more extensive region of surface membrane. 
 
-
 ## How Ion Channels Work
+crystallography. You shine X-rays at a crystal. Because X-rays have wavelengths comparable to atomic spacings, the X-rays diffract from the regularly arranged atoms. You observe a diffraction pattern. Mathematical analysis of the diffraction pattern allows you to reconstruct the electron density, from which you determine where the atoms are.
+
+1998, 2023 -> 3D/atomic structure of the ion channels were observed. 
+
 ## The Diversity of Ion Channels
 ## Voltage-Gated Ion Channels
 ## Clinical Applications: Neurological Diseases Caused by Altered Ion Channels
