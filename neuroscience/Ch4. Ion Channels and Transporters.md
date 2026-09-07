@@ -19,7 +19,16 @@ crystallography. You shine X-rays at a crystal. Because X-rays have wavelengths 
 
 1998, 2023 -> 3D/atomic structure of the ion channels were observed. 
 
+The precise movements of the voltage sensor that occur during membrane depolarizaiton are not yet clear, and are the subject of considerable debate. 
+
+Toxins that poison ion channels
+- tetrodotoxin/saxitoxin. Blocks voltage-gated Na+ channels, which are responsible for action potential generation.
+- beta-toxins. Shifts the voltage dependence of Na+ channel activation.   
+- etc.
+
 ## The Diversity of Ion Channels
+
+
 ## Voltage-Gated Ion Channels
 ## Clinical Applications: Neurological Diseases Caused by Altered Ion Channels
 ## Ligand-Gated Ion Channels
