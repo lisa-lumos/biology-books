@@ -27,9 +27,13 @@ Toxins that poison ion channels
 - etc.
 
 ## The Diversity of Ion Channels
+More then 200 ion channel genes have been discovered. 
 
+Some Channels are insensitive to membrane voltage, instead being gated by chemical signals that bind to extra/intracellular domains on these proteins. Some are sensitive to other types of physical stimuli, such as mechanical displacement, or changes in temperature. The proteins responsible for generating these signals are remarkably diverse. 
 
 ## Voltage-Gated Ion Channels
+
+
 ## Clinical Applications: Neurological Diseases Caused by Altered Ion Channels
 ## Ligand-Gated Ion Channels
 ## Thermosensitive and Mechanosensitive Channels
