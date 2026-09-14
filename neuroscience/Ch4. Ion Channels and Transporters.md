@@ -32,12 +32,18 @@ More then 200 ion channel genes have been discovered.
 Some Channels are insensitive to membrane voltage, instead being gated by chemical signals that bind to extra/intracellular domains on these proteins. Some are sensitive to other types of physical stimuli, such as mechanical displacement, or changes in temperature. The proteins responsible for generating these signals are remarkably diverse. 
 
 ## Voltage-Gated Ion Channels
+There are 10 human Na+ channel genes - unexpected, because Na+ channels from many diff cell types have similar functional properties, consistent with their origin from a single gene. 
 
+In addition to the rapidly inactivating Na+ channels, there are voltage-sensitive Na+ channels that do not completely inactivate, giving rise to a persistent Na+ current. 
 
 ## Clinical Applications: Neurological Diseases Caused by Altered Ion Channels
 ## Ligand-Gated Ion Channels
+Neurotransmitter receptors, activated by binding of neurotransmitters to their extracellular domains. 
+
 ## Thermosensitive and Mechanosensitive Channels
 ## Active Transporters Create and Maintain Ion Gradients
+For active transporters, the process of ion binding/unbinding typically takes a few ms. Therefore, ion translocation is much slower than the ion diffusion through channel pores. 
+
 ## ATPase Pumps
 ## Ion Exchangers
 ## Summary
