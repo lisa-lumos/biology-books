@@ -45,6 +45,10 @@ Neurotransmitter receptors, activated by binding of neurotransmitters to their e
 For active transporters, the process of ion binding/unbinding typically takes a few ms. Therefore, ion translocation is much slower than the ion diffusion through channel pores. 
 
 ## ATPase Pumps
+A type of active transporter. Acquire energy for ion translocation directly from the hydrolysis of ATP. e.g.: the Na+/K+ pump. 
+
 ## Ion Exchangers
+A type of active transporter. Uses the electrochemical gradients of other ions as an energy source. 
+
 ## Summary
 ## Additional Reading
