@@ -3,7 +3,11 @@
 The human brain contains 86bil neurons, each with the ability to influence many other cells, using synapses. 
 
 ## Two Classes of Synapses
+Electrical synapses. Permit direct/passive flow of electrical current between neurons. 
 
+Gap junction: intercellular specialization where membranes of the two neurons come extremely close, and are linked together by connexon. 
+
+Chemical synapses. Synaptic cleft. 
 
 ## Signaling Transmission at Electrical Synapses
 
