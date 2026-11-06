@@ -10,7 +10,8 @@ Gap junction: intercellular specialization where membranes of the two neurons co
 Chemical synapses. Synaptic cleft. 
 
 ## Signaling Transmission at Electrical Synapses
-
+- transmission is extremely fast
+- transmission can be bidirectional
 
 ## Signaling Transmission at Chemical Synapses
 
