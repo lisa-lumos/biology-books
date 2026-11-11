@@ -14,7 +14,7 @@ Chemical synapses. Synaptic cleft.
 - transmission can be bidirectional
 
 ## Signaling Transmission at Chemical Synapses
-
+Removal of the neurotransmitter from the synaptic cleft (by update in to glial cells, or by enzymatic degradation) terminates the action of the neurotransmitter. 
 
 ## Properties of Neurotransmitters
 
