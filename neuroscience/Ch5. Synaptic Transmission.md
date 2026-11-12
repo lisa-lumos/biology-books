@@ -17,7 +17,12 @@ Chemical synapses. Synaptic cleft.
 Removal of the neurotransmitter from the synaptic cleft (by update in to glial cells, or by enzymatic degradation) terminates the action of the neurotransmitter. 
 
 ## Properties of Neurotransmitters
+- Small molecule neurotransmitters. Such as ACh. Its synthesis occurs locally, within presynaptic terminals. The precursor molecules required to make them are usually taken into the nerve terminal by transporters found in the plasma membrane of the terminal. 
+- Neuropeptides. Synthesized in the cell body of the neuron, and transported along an axon, and down to the synaptic terminal, via axonal transport. 
 
+Multiple neurotransmitters can produce diff types of responses on a postsynaptic cell. e.g., a neuron can be excited by one type of neurotransmitter, and inhibited by another type of neurotransmitter. 
+
+Specific transporter proteins remove most small-molecule neurotransmitters from the synaptic cleft, ultimately delivering them back to the presynaptic terminal for reuse. 
 
 ## Quantal Release of Neurotransmitters
 
