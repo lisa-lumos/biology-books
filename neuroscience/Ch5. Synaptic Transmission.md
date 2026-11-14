@@ -30,7 +30,9 @@ A large end plate potential (EPP) is the sum of many individual miniature end pl
 Neurotransmitter is released in discrete packets rather than continuously. MEPPs occur spontaneously, even without a nerve action potential. An EPP is the larger, evoked response produced when many packets are released together.
 
 ## Release of Transmitters from Synaptic Vesicles
+At about the time Katz etc were using physiological methods to discover quantal release of neurotransmitter, electron microscopy for the first time revealed the presence of synaptic vesicles in presynaptic terminals. 
 
+Approximately 10k molecules of neurotransmitters are contained in a single vesicle. 
 
 ## Local Recycling of Synaptic Vesicles
 
