@@ -25,7 +25,9 @@ Multiple neurotransmitters can produce diff types of responses on a postsynaptic
 Specific transporter proteins remove most small-molecule neurotransmitters from the synaptic cleft, ultimately delivering them back to the presynaptic terminal for reuse. 
 
 ## Quantal Release of Neurotransmitters
+A large end plate potential (EPP) is the sum of many individual miniature end plate potentials (MEPPs). 
 
+Neurotransmitter is released in discrete packets rather than continuously. MEPPs occur spontaneously, even without a nerve action potential. An EPP is the larger, evoked response produced when many packets are released together.
 
 ## Release of Transmitters from Synaptic Vesicles
 
